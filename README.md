@@ -1,2 +1,3 @@
-# desafio_02-3
+# Desafío 3 - Grid
  
+Curso CSS Avanzado (G90) - Módulo 2 Grid
